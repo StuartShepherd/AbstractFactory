@@ -6,7 +6,7 @@ namespace AbstractFactory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Abstract Factory example");
+            Console.WriteLine("Abstract Factory design pattern example");
             Console.WriteLine("Abstract Factory is a creational design pattern, which solves the problem of creating entire product families without specifying their concrete classes.");
             Console.WriteLine();
 
